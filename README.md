@@ -1,2 +1,2 @@
 # odin-rock-paper-scissors
-a rock-paper-scissors game played in the console! (my first ever javascript project!)
+a rock-paper-scissors game! (my first ever javascript project!)
